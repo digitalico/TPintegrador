@@ -1,8 +1,6 @@
 # TPintegrador computacion aplicada
 ## Integrantes
 - Facundo Gordillo Stanzione
-- Luciano 
-- Lucas Toto
 - Jose Oldani
 
 ## Archivos entregables
